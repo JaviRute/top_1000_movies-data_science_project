@@ -1,4 +1,6 @@
-# top_1000_movies-data_science_project
+# Top 1000 IMDb movies of all time
+
+### (Data Science Project)
 
 Created from a very large json file with lots of information about IMDB's 1000 top rated movies of all time, which also contains the metarcritic ratings.
 
